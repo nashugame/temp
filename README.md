@@ -31,9 +31,3 @@ Découvre facilement les premiers usages de la plateforme en suivant ce petit gu
 {% content-ref url="onyxia-guide/gestion-des-secrets.md" %}
 [gestion-des-secrets.md](onyxia-guide/gestion-des-secrets.md)
 {% endcontent-ref %}
-
-## Envie de contribuer à la communauté?
-
-{% content-ref url="docs/comment-contribuer-1/comment-contribuer/" %}
-[comment-contribuer](docs/comment-contribuer-1/comment-contribuer/)
-{% endcontent-ref %}
